@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243380367694",
+    "project_id": "flutter-video-audio-chat-9fc00",
+    "storage_bucket": "flutter-video-audio-chat-9fc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243380367694:android:ffcc82a842ec5b360aee1f",
+        "android_client_info": {
+          "package_name": "com.android.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243380367694-nkocrkgektib86l6rqhim4kdsvhukssg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnv0R9fuIgrUfZS8lyHSt2iipGe0CweE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243380367694-nkocrkgektib86l6rqhim4kdsvhukssg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
